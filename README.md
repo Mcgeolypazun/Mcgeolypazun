@@ -1,7 +1,8 @@
 ### Hi there 👋
 ##### 하루에 하나씩 잔디색칠!
-- 🌱 I’m currently learning   ![JavaSpring](https://img.shields.io/badge/I'm학습이에요-JavaSpring-blue?logo=intellijidea)
-- 🔰 I learned Android ![Android](https://img.shields.io/badge/Iwas학습했어요-Android-blue?logo=android)
+- 🌱 I’m currently learning   ![JavaSpring](https://img.shields.io/badge/I'm학습이에요-JavaSpring-brown?logo=intellijidea)
+- 🔰 I learned Android ![Android](https://img.shields.io/badge/Iwas학습했어요-Android-green?logo=android)
+- 🐤 배우고 싶은 언어 ![JavaScript](https://img.shields.io/badge/-Javascript-yellow?logo=Javascript)
 
 
 <!--
