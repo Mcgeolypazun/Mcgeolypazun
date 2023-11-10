@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning   ![JavaSpring](https://img.shields.io/badge/I'm학습이에요-JavaSpring-brown?logo=intellijidea)
 - 🔰 I learned Android ![Android](https://img.shields.io/badge/Iwas학습했어요-Android-green?logo=android)
 - 🐤 배우고 싶은 언어 ![JavaScript](https://img.shields.io/badge/-Javascript-yellow?logo=Javascript)
-
+- 💤 학부생때 배웠던 언어 ![C](https://img.shields.io/badge/-C-blue?logo=C) ![C++](https://img.shields.io/badge/-C++-blue?logo=C) ![Python](https://img.shields.io/badge/-Python-white?logo=Python) ![Kotlin](https://img.shields.io/badge/-Kotlin-violet?logo=Kotlin) ![JAVA](https://img.shields.io/badge/-Java-red?logo=intellijidea)
 
 <!--
 **Mcgeolypazun/Mcgeolypazun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
