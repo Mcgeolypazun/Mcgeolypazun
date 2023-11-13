@@ -6,8 +6,9 @@
 - 💤 학부생때 배웠던 언어 ![C](https://img.shields.io/badge/-C-blue?logo=C) ![C++](https://img.shields.io/badge/-C++-blue?logo=C) ![Python](https://img.shields.io/badge/-Python-white?logo=Python) ![Kotlin](https://img.shields.io/badge/-Kotlin-violet?logo=Kotlin) ![JAVA](https://img.shields.io/badge/-Java-red?logo=intellijidea)
 - 🔗 [알고리즘 저장소](https://github.com/Mcgeolypazun/Java-Algorithms), 🖇 [구_알고리즘 저장소](https://github.com/Mcgeolypazun/Algorithm-repository) ![Algorithm](https://img.shields.io/badge/-Algorithm-grey?logo=Algorithm)
 
--🔰 내배캠 자바 기초 프로젝트 [BurgerStore](https://github.com/Mcgeolypazun/individual-assignment) ![Project](https://img.shields.io/badge/-Project-grey?logo=Project)
-
+- 🔰 내배캠 자바 기초 프로젝트 [BurgerStore](https://github.com/Mcgeolypazun/individual-assignment) ![Project](https://img.shields.io/badge/-Project-grey?logo=Project)
+- 🔰 내배캠 자바 기초 팀 프로젝트 [HotelRoom](https://github.com/Mcgeolypazun/HotelProject) ![Project](https://img.shields.io/badge/-Project-turquoise?logo=CodeProject)
+  
 <!--
 **Mcgeolypazun/Mcgeolypazun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
