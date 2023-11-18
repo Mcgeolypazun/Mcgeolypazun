@@ -9,6 +9,10 @@
 - 🔰 내배캠 자바 기초 프로젝트 [BurgerStore](https://github.com/Mcgeolypazun/individual-assignment) ![Project](https://img.shields.io/badge/-Project-grey?logo=Project)
 - 🔰 내배캠 자바 기초 팀 프로젝트 [HotelRoom](https://github.com/Mcgeolypazun/HotelProject) ![Project](https://img.shields.io/badge/-Project-turquoise?logo=CodeProject)
 - 🐶🌳 한성대학교 졸업 프로젝트 [PetLifeTimeCareApp](https://github.com/hansungcapstonedesignteam/pet_lifecycle_app.android)![Project](https://img.shields.io/badge/-Project-turquoise?logo=CodeProject)
+
+  <img src="https://github.com/Mcgeolypazun/Mcgeolypazun/assets/79851594/f5e41b98-7e0e-4ff4-9a9f-de67ba9f86d9" width=200 height=300>
+
+
 - 📗 매일 쓰는 [TIL](https://velog.io/@tarantula) ![Velog](https://img.shields.io/badge/-velog-white?logo=Velog)
 <!--
 **Mcgeolypazun/Mcgeolypazun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
