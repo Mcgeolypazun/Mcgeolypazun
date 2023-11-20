@@ -15,6 +15,9 @@
   🔘 openApi를 이용해서 지도위에 동물병원의 위치를 표시해 두었습니다.
   
   🔘 현재 위치에서 동물병원의 위치까지 거리를 계산하였습니다.
+  🔘 ChatGPT를 이용해서 챗봇을 만들었습니다.
+  🔘 커뮤니티 게시판을 만들어 사진과 글을 공유합니다.
+  🔘 입양게시판을 만들었습니다. 
 
 - 📗 매일 쓰는 [TIL](https://velog.io/@tarantula) ![Velog](https://img.shields.io/badge/-velog-white?logo=Velog)
 <!--
