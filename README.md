@@ -11,7 +11,8 @@
 - 🐶🌳 한성대학교 졸업 프로젝트 [PetLifeTimeCareApp](https://github.com/hansungcapstonedesignteam/pet_lifecycle_app.android)![Project](https://img.shields.io/badge/-Project-turquoise?logo=CodeProject)
 
   <img src="https://github.com/Mcgeolypazun/Mcgeolypazun/assets/79851594/f5e41b98-7e0e-4ff4-9a9f-de67ba9f86d9" width=200 height=300>   <img src="https://github.com/Mcgeolypazun/Mcgeolypazun/assets/79851594/672c182e-289c-4f79-bd21-9e31304c929f" width=200 height=300>
-  
+   <img src="https://github.com/Mcgeolypazun/Mcgeolypazun/assets/79851594/50896fe6-1b06-4825-af43-0e2c3bff47bc" width=200 height=300>   <img src="https://github.com/Mcgeolypazun/Mcgeolypazun/assets/79851594/c8dd476b-aca6-4c78-9272-ab9c7e0ee929" width=200 height=300>
+ 
   🔘 openApi를 이용해서 지도위에 동물병원의 위치를 표시해 두었습니다.
   
   🔘 현재 위치에서 동물병원의 위치까지 거리를 계산하였습니다.
@@ -20,7 +21,11 @@
   
   🔘 커뮤니티 게시판을 만들어 사진과 글을 공유합니다.
   
-  🔘 입양게시판을 만들었습니다. 
+  🔘 입양게시판을 만들었습니다.
+  
+  🔘 산책 시간과 경로를 표시합니다.
+  
+  🔘 애견 종류를 추천합니다.
 
 - 📗 매일 쓰는 [TIL](https://velog.io/@tarantula) ![Velog](https://img.shields.io/badge/-velog-white?logo=Velog)
 <!--
